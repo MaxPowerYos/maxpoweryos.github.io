@@ -3,11 +3,11 @@ title: Welcome to Max Power's Homepage
 description: Max Power doesn't cuddle.  Just strap in and feel the G's.
 
 # This is header style 1
-* i like lists
-  * they are succint
-  * they are to the point
-    * there's a word for that
-  * i don't have to type much
-  * but sometimes paragraphs are better
+- i like lists
+  - they are succint
+  - they are to the point
+    - there's a word for that
+  - i don't have to type much
+  - but sometimes paragraphs are better
  
 ## This is header style 2
