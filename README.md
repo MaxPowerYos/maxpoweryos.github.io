@@ -6,6 +6,16 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### What does this do?
 
+# This is header style 1
+- i like lists
+  - they are succint
+  - they are to the point
+  - there's a word for that
+  - i don't have to type much
+  - but sometimes paragraphs are better
+ 
+## This is header style 2
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
