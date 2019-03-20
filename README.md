@@ -6,13 +6,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### What does this do?
 
-# This is header style 1
-- i like lists
-  - they are succint
-  - they are to the point
-    - there's a word for that
-  - i don't have to type much
-  - but sometimes paragraphs are better
+# Max Power got his name from a hairdryer
+- The judge refused his other suggested names
+  - they were not spelled correctly
+  - they included:
+    - rembrant q einstein
+    - hercules rockerfeller
+    - handsome b wonderful
+
  
 ## This is header style 2
 
