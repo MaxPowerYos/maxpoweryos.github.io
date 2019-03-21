@@ -10,12 +10,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - The judge refused his other suggested names
   - they were not spelled correctly
   - they included:
-    - rembrant q einstein
+    - **rembrant q einstein**
     - hercules rockerfeller
     - handsome b wonderful
 
  
-## This is header style 2
+## This is _header_ style 2
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
